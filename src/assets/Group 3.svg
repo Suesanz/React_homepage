@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 56.3 (101010) - https://sketch.com -->
+    <title>53399501-A040-4DDB-9450-E9ADCB6FFC8D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B571" offset="0%"></stop>
+            <stop stop-color="#01A2EC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-104.000000, -1648.000000)">
+            <g id="Group-3" transform="translate(104.000000, 1648.000000)">
+                <g id="Group-2">
+                    <path d="M7.6916556,-3.10752092e-16 L24.08,0 L24.08,16.3083444 C24.08,18.9829006 23.8015232,19.9527593 23.2786019,20.9305371 C22.7556806,21.9083149 21.9883149,22.6756806 21.0105371,23.1986019 C20.0327593,23.7215232 19.0629006,24 16.3883444,24 L0,24 L2.07168062e-16,7.6916556 C-1.2037061e-16,5.01709938 0.278476833,4.04724067 0.801398111,3.06946289 C1.32431939,2.09168511 2.09168511,1.32431939 3.06946289,0.801398111 C4.04724067,0.278476833 5.01709938,1.80555915e-16 7.6916556,-3.10752092e-16 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                    <polygon id="Rectangle" fill="#FFFFFF" points="13.33 10.2857143 19.35 10.2857143 12.47 18.8571429 6.45 18.8571429"></polygon>
+                    <polygon id="Rectangle" fill="#FFFFFF" points="11.61 5.14285714 17.63 5.14285714 10.75 13.7142857 4.73 13.7142857"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

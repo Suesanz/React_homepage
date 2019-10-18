@@ -1,0 +1,452 @@
+body, html {
+    overflow-x: hidden;
+}
+
+.get-your-inventory-s {
+    color: #0A1F44;
+    font-family: Gilroy;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 80px;
+    width: 703px;
+    text-align: left;
+}
+
+.the-most-loved-liqui {
+    color: #4E5D78;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+}
+
+.img {
+    width: 542px;
+    height: 392px
+}
+
+.card-deck {
+    margin-right: 50px !important;
+}
+
+.bt {
+    border-radius: 4px;
+    width: 272px;
+    height: 48px;
+}
+
+.notified {
+    border-radius: 4px;
+    width: 128px;
+    height: 48px;
+    margin-left: -4rem;
+}
+
+.view2 {
+    border-radius: 4px;
+    width: 128px;
+    height: 40px;
+    background-color: #00B571;
+    color: white;
+}
+
+.email {
+    border-radius: 4px;
+    width: 272px !important;
+    height: 48px;
+
+}
+
+.btn-tex {
+    color: #FFFFFF;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    width: 78.3px;
+    text-align: center;
+}
+
+.filter {
+    color: #0A1F44;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+
+}
+
+.price {
+    color: #4E5D78;
+    font-family: Gilroy;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+}
+
+.clear {
+    display: inline-block;
+    color: #00B16E;
+    font-family: Gilroy;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: right;
+}
+
+.dropdown {
+
+    height: 32px;
+    padding: 0 !important;
+}
+
+.custom-control-input {
+    width: 20px;
+    height: 20px;
+
+}
+
+.text-value {
+    /*color: #FFFFFF;*/
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    width: 84.31px;
+    text-align: center;
+}
+
+.sort-by {
+    color: #4E5D78;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+.lowest {
+    border: hidden !important;
+}
+
+.lowest {
+    color: #8A94A6;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    width: 80.25px;
+    text-align: left;
+}
+
+.max {
+    color: #8A94A6;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 6px;
+    width: 33.45px;
+    text-align: left;
+    margin-bottom: -5px;
+}
+
+.min {
+    border-radius: 4px;
+    /*width: 120px;*/
+    height: 32px;
+    padding: 0 !important;
+    border: 1px solid #cccccc;
+}
+
+.original-i-phone-boxe {
+    color: #0A1F44;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    width: 256px;
+    text-align: left;
+}
+
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none;
+}
+
+.form-control:focus, .form-control:active {
+    outline: none !important;
+    box-shadow: none;
+}
+
+.current-bid {
+    color: #8A94A6;
+    font-family: Gilroy;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+}
+
+.two {
+    color: #0A1F44;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+}
+
+.watch {
+    border-radius: 4px;
+    width: 120px;
+    height: 40px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+}
+
+.bg {
+    border-radius: 4px;
+    width: 112px;
+    height: 24px;
+    line-height: 1.55;
+    text-align: left;
+    /*background-color: #eaf7f1;*/
+}
+
+.badge-primary {
+    background-color: #eaf7f1;
+    color: #00B571;
+}
+
+.bgg {
+    border-radius: 4px;
+    width: 154px;
+    height: 24px;
+    /*line-height: 1.65;*/
+    background-color: #fdeecb;
+    color: black;
+    font-family: Gilroy;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+
+    text-align: center;
+}
+
+.btn-primary {
+
+    background-color: #00B571;
+}
+
+.btn-outline-primary {
+    color: #00B571;
+    border-color: #00B571;
+}
+
+.sold {
+    background-color: #01A2EC;
+}
+
+.btn-outline-primary:hover, .btn-primary:hover {
+    background-color: #00B571;
+}
+
+.signin, .signup {
+    border-radius: 4px;
+    width: 96px;
+    height: 40px;
+}
+
+.ever {
+    background-color: transparent !important;
+    color: black !important;
+    border-radius: 160px !important;
+    /*width: 104px;*/
+    height: 32px;
+    line-height: 1;
+}
+
+.nav-link.active {
+    background-color: #f1f2f4 !important;
+    color: white;
+}
+
+.nav-pills {
+    color: black;
+}
+
+.fontAwesome {
+    font-family: Helvetica, 'FontAwesome', sans-serif;
+    border-radius: 4px;
+    width: 504px !important;
+    height: 40px;
+    background-color: #f1f2f4;
+    color: #8A94A6;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+.firstSection {
+    margin-top: 5rem;
+    margin-bottom: 6rem;
+
+}
+
+.bb {
+    margin-right: 1rem !important;
+    margin-top: 1.5rem;
+    margin-left: -1.5rem;
+    /*padding: rem;*/
+}
+
+
+.footerHeading {
+    color: #0A1F44;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+}
+
+.fsh {
+    color: #4E5D78;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+.invento-lots {
+    color: #4E5D78;
+    font-family: Gilroy;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    /*width: 281px;*/
+    /*text-align: center !important;*/
+}
+
+.selected {
+    color: #8A94A6;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    /*width: 33.45px;*/
+    text-align: left;
+}
+
+.select {
+    width: 110px !important;
+    border-radius: 4px;
+    height: 32px;
+    margin-left: -15px !important;
+    margin-right: -15px !important;
+}
+
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: #00b36f;
+}
+
+.new {
+    position: absolute;
+    z-index: 10;
+    left: 12px;
+    top: 18px;
+    width: 48px;
+    height: 24px;
+}
+
+.newspan {
+    border-radius: 160px !important;
+    color: #0081B5;
+    font-family: Gilroy;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    /*width: 20.07px;*/
+    text-align: center;
+}
+
+.used {
+    border-radius: 4px;
+    width: 57px;
+    height: 24px;
+    position: absolute;
+    z-index: 10;
+    left: 6.5rem;
+    top: 18px;
+
+}
+
+.use {
+    background-color: #14284B !important;
+    color: white;
+    font-family: Gilroy;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    text-align: left;
+}
+
+.live {
+    height: 8px;
+    width: 8px;
+    line-height: 4px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: left;
+}
+
+.offset-md-4 {
+    margin-left: 27.9%;
+}
+
+.custom-checkbox, .custom-control-label:before {
+    border-radius: 0.10rem !important;
+
+}
+
+.check {
+    color: #4E5D78;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+.check:after {
+    color: #0A1F44 !important;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+.line {
+    border: none;
+    height: 50px;
+    border-bottom: 1px #1f1209;
+    box-shadow: 0 10px 10px -15px #333;
+}
+.f{
+    padding-bottom: 7rem!important;
+}
